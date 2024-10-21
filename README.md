@@ -108,6 +108,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Bhavani Ravi](http://bhavaniravi.com)
 - [Bhavya Tomar](https://bhavya.dev)
 - [Bhushan Borole](https://bhushan-borole.github.io/)
+- [Blessing James](https://portfolio-bay-eight-58.vercel.app/)
 - [Bob Matyas](https://www.bobmatyas.com)
 - [Bohdan Khvorostovskyi](https://khvorostovskyi.com)
 - [Boris Edison](https://borisedison.in/)
